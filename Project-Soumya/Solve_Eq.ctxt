@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Solve_Eq
+comment1.params=
+comment1.target=Solve_Eq()
+comment2.params=n
+comment2.target=Solve_Eq(int)
+comment3.params=
+comment3.target=void\ solveq()
+comment4.params=d
+comment4.target=void\ findsol(int)
+comment5.params=
+comment5.target=void\ Display()
+numComments=6

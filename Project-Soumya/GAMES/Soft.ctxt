@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Soft
+comment1.params=v\ id\ t\ u\ z\ x\ n
+comment1.target=Node\ soft(java.lang.String,\ int,\ int,\ int,\ char,\ int,\ int)
+comment2.params=n\ id
+comment2.target=boolean\ exists(java.lang.String,\ int)
+comment3.params=
+comment3.target=void\ record()
+comment4.params=
+comment4.target=int\ countnode()
+numComments=5

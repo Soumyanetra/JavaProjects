@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Matrix_Multiplication
+comment1.params=
+comment1.target=Matrix_Multiplication()
+comment2.params=a\ b\ c\ d\ e\ f
+comment2.target=Matrix_Multiplication(int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=f
+comment3.target=void\ multh(int)
+comment4.params=
+comment4.target=void\ display()
+numComments=5

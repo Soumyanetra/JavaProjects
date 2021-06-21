@@ -1,0 +1,35 @@
+import java.io.*;
+class Info extends Centre
+{ 
+    Info()throws IOException
+    {
+        System.out.println("\f\n\n\n\t\t\t\t\t\t\tI N F O R M A T I O N S\n\t\t\t\t\t\t\t```````````````````````\n\n");
+        System.out.println(" SOME MUST READ INFORMATIONS NECESSARY TO EXECUTE THE 'QUIZ COUNTING PROCESS' SMOOTHLY -\n");
+        System.out.println(" 1.  NO GROUP NAME MUST CONTAIN THE SYMBOL SHOWN IN QUOTES '~'");
+        System.out.println(" 2.  NO GROUP SHOULD BE NAMED AS 'NMG', 'RC', 'DFF' OR 'END' (in either of the case)");
+        System.out.println(" 3.  NO GROUP SHOULD START EITHER WITH ANY SYMBOL OR NUMBER(0-9), EXCEPT '-'");
+        System.out.println(" 4.  NAME OF ANY GROUP MUST NOT EXCEED FIVE(5) LETTERS");
+        System.out.println(" 5.  SHOULD YOU REQUIRE TO DELETE ANY GROUP WRONGLY ENTERED, RE-INSERT THE GROUP NAME JUST BY ADDING A '-' SYMBOL BEFORE IT, WITHOUT ANY SPACE BETWEEN THEM");
+        System.out.println(" 6.  IF YOU HAVE GROUP NAMES WITH CONSECUTIVE TERMS THEREBY FOLLOWING ANY TYPE OF THE SERIES PROVIDED BELOW,\n     YOU CAN SPECIFY IT BY MENTIONING THE FIRST AND THE LAST TERM SEPERATED BY A '-'\n     THE CASE OF THE NAME WILL BE IN CORRESPONDENCE WITH THE CASE OF THE FIRST NAME OF THE PROVIDED SERIES\n     (a) A-Z\n     (b) AA-AZ  / AA-ZA    / AAA-AAZ    /....\n     (c) A1-A10 / AA1-AA10 / ABC1-ABC10 /....\n     (d) A1-Z1  / AB1-ZB1  /....\n     IF THE REVERSE OF THE PROVIDED SEIRES IS SUPPLIED THEN 'QSC' WILL AUTOMATICALLY REVERT IT BEFORE ASSIGNING GROUP NAMES\n     IF ANY PART OF THE ABOVE MENTIONED SERISE IS PROVIDED THEN, 'QSC' WILL SUCCESSFULLY CARRY OUT THE NAMING PROCESS");
+        System.out.println(" 7.  YOU CAN STORE 'GROUP NAMES' IN THE FILE 'Quiz Gn' PRESENT IN THE PROJECT AND USE 'DFF' TO ASSIGN THOSE NAMES");
+        System.out.println(" 8.  QUORUM TO PROCEED WIHT THE QUIZ IS 'TWO (2)'");
+        System.out.println(" 9.  QUORUM TO PROCEED WIHT THE ELIMINATION ROUND IS 'SIX (6)'");
+        System.out.println(" 10. THERE MUST BE ATLEAST 'THREE (3)' GROUPS, FOR THE MAIN ROUNDS, AFTER ELIMINATION");
+        System.out.println(" 11. FOLLOW EVERY LOCAL INSTRUCTIONS THROUGHLY");
+        System.out.println(" 12. POINTS AWARDED FOR ANY QUESTION MUST BE IN INTEGER FORMAT");
+        System.out.println(" 13. WHILE TYPING PERSONAL MESSAGE, SHOULD YOU REQUIRE TO CHANGE LINE, TYPE - FRONTSLASH(/) & 'n'");
+        System.out.println(" 14. TO DENOTE PESENCE OF NO MORE GROUPS, ENTER 'NMG' IN THE PLACE PROVIDED TO ENTER 'GROUP NAME'");
+        System.out.println(" 15. TO DENOTE COMPLITION OF ANY ROUND ENTER 'RC'(in any case)");
+        System.out.println(" 16. TO DENOTE COMPLITION OF THE QUIZ ENTER 'END'(in any case)");
+        System.out.println(" 17. YOU MAY ENTER 'RC' & 'END' WHERE YOU ARE ASKED TO ENTER 'POINTS TO BE AWARDED OR DEWARDED'");
+        System.out.println(" 18. THERE IS 'ELIMINATING QUIZ' & 'TIE BREAKING QUIZ' FACILITIES");
+        System.out.println(" 19. THE 'TIE BREAKING QUIZ' AIMS TO DETERMINE ONLY THE FIRST RANK, WHILE ANY TIE BETWEEN 2nd & 3rd RANK AND ONWARDS WILL NOT BE CONSIDERED BY 'QSC'");
+        System.out.println(" 20. TO KNOW THE ROUND WISE STATUS OF THE QUIZ-RANK UPDATES, FOLLOW THE PROVIDED PATH : /Libraries/Documents/'Java Project Name'/Quiz Details");
+        System.out.println(" 21. THE QUIZ SCORES WILL BE DISPLAYED AUTOMATICALLY AFTER COMPLETION OF EACH ROUND, BUT, REMEMBER TO CLOSE THE FILE MANUALLY BEFORE FURTHER EXECUTION OF THE PROGRAM");
+        System.out.println(" 22. YOU CAN VIEW RESULTS ACCORDING TO YOUR DISCRETION, BUT, REMEMBER TO CLOSE THE FILE BEFORE FURTHER EXECUTION OF THE PROGRAM");
+        System.out.println(" 23. IF SCORE OF FIRST GROUP IS ZERO '0', THEN 'QSC' WILL NEITHER OPEN SCORE UPDATE FILE NOR SHOW THE LIST OF LEADING TEAMS");
+        System.out.println(" 24. SHOULD YOU NEED TO INFORM ABOUT ANY FURTHER DEVELOPMENT OR COMPLAIN, PLEASE CONTACT (98304582422/8420755725)\n\n\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t      QSC - 3.2.6"); 
+        System.out.print("*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*=`=*\n  Press 'ENTER' to continue : ");
+        br.readLine();
+    }
+}

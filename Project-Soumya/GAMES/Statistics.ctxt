@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Statistics
+comment1.params=
+comment1.target=void\ stat()
+comment2.params=ct\ r
+comment2.target=void\ write(int,\ int)
+comment3.params=
+comment3.target=void\ read()
+numComments=4

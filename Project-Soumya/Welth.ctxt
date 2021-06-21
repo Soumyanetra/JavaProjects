@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Welth
+comment1.params=
+comment1.target=void\ welcome()
+comment2.params=
+comment2.target=void\ thank()
+comment3.params=
+comment3.target=void\ bol()
+comment4.params=
+comment4.target=void\ wish()
+comment5.params=n\ d
+comment5.target=void\ di(java.lang.String,\ java.lang.String)
+numComments=6

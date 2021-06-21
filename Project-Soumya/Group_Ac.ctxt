@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Group_Ac
+comment1.params=gn\ v
+comment1.target=void\ insert(java.lang.String,\ int)
+comment10.params=pw\ tp\ i
+comment10.target=void\ negative(java.io.PrintWriter,\ Group,\ int)
+comment2.params=c
+comment2.target=int\ presentnth(java.lang.String)
+comment3.params=m
+comment3.target=void\ deletenth(int)
+comment4.params=
+comment4.target=int\ countnode()
+comment5.params=m\ c
+comment5.target=void\ insertnth(int,\ java.lang.String)
+comment6.params=
+comment6.target=void\ rein()
+comment7.params=p
+comment7.target=void\ split(int)
+comment8.params=pw
+comment8.target=void\ traverse(java.io.PrintWriter)
+comment9.params=pw\ tp\ i
+comment9.target=void\ positive(java.io.PrintWriter,\ Group,\ int)
+numComments=11

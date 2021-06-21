@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Pogo
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=void\ accept()
+comment3.params=
+comment3.target=void\ human()
+comment4.params=
+comment4.target=void\ computer()
+comment5.params=
+comment5.target=int\ hard()
+comment6.params=
+comment6.target=int\ medium()
+comment7.params=
+comment7.target=void\ display()
+numComments=8

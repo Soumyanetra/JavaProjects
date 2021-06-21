@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Inverse
+comment1.params=
+comment1.target=Inverse()
+comment2.params=m
+comment2.target=Inverse(int)
+comment3.params=
+comment3.target=void\ invh()
+comment4.params=
+comment4.target=int\ Determinant()
+comment5.params=
+comment5.target=void\ Adjugate()
+comment6.params=d
+comment6.target=void\ Inverse(int)
+comment7.params=k\ C
+comment7.target=void\ Display(java.lang.String,\ java.lang.String[][])
+comment8.params=B
+comment8.target=void\ transpose(int[][])
+comment9.params=a\ b
+comment9.target=int\ gcd(int,\ int)
+numComments=10

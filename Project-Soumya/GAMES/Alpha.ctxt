@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Alpha
+comment1.params=rc\ c
+comment1.target=void\ samp(int,\ char)
+comment2.params=rc
+comment2.target=void\ time(int)
+numComments=3

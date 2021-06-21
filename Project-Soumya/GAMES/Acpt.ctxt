@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Acpt
+comment1.params=
+comment1.target=Acpt()
+comment2.params=rc
+comment2.target=Acpt(int)
+comment3.params=
+comment3.target=void\ accept()
+comment4.params=
+comment4.target=void\ you()
+comment5.params=d\ c
+comment5.target=int\ check(int,\ int)
+comment6.params=i
+comment6.target=void\ choice(int)
+numComments=7

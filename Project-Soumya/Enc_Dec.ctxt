@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Enc_Dec
+comment1.params=n
+comment1.target=java.lang.String\ encrypt(java.lang.String)
+comment2.params=n
+comment2.target=java.lang.String\ decrypt(java.lang.String)
+numComments=3

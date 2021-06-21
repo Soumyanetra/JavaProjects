@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SP
+comment1.params=
+comment1.target=void\ display()
+comment2.params=rc\ na
+comment2.target=void\ choice(int,\ java.lang.String)
+comment3.params=rc\ c
+comment3.target=void\ samp(int,\ int)
+comment4.params=rc
+comment4.target=void\ time(int)
+comment5.params=rc
+comment5.target=void\ hi(int)
+numComments=6

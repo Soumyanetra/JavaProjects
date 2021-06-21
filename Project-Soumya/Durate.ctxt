@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Durate
+comment1.params=n\ t
+comment1.target=Durate(java.lang.String,\ java.lang.String)
+comment2.params=m
+comment2.target=void\ min(int)
+comment3.params=s
+comment3.target=void\ sec(int)
+comment4.params=ms
+comment4.target=void\ milli(int)
+numComments=5

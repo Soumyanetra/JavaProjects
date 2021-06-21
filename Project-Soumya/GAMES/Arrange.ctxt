@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Arrange
+comment1.params=pz\ na
+comment1.target=void\ arrange(java.lang.String[][],\ java.lang.String)
+comment2.params=pz\ na
+comment2.target=void\ arr(java.lang.String[][],\ java.lang.String)
+comment3.params=pz
+comment3.target=boolean\ check(java.lang.String[][])
+numComments=4

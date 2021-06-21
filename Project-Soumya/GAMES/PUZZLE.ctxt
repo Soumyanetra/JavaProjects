@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PUZZLE
+comment1.params=
+comment1.target=void\ main()
+comment2.params=pz\ na\ w
+comment2.target=void\ display(java.lang.String[][],\ java.lang.String,\ char)
+numComments=3

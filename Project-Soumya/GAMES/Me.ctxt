@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Me
+comment1.params=
+comment1.target=void\ computer()
+comment2.params=max
+comment2.target=int\ calldet(int)
+comment3.params=max
+comment3.target=int\ potential_04(int)
+comment4.params=max
+comment4.target=int\ potential_59(int)
+numComments=5

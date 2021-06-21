@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Accept
+comment1.params=
+comment1.target=void\ accept()
+comment2.params=
+comment2.target=void\ start()
+comment3.params=n
+comment3.target=void\ quiz(int)
+comment4.params=g
+comment4.target=boolean\ symbol(java.lang.String)
+numComments=5

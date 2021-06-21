@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CZ
+comment1.params=call\ h
+comment1.target=void\ zero(int,\ int)
+comment2.params=h
+comment2.target=void\ countzero(int)
+numComments=3
